@@ -1,0 +1,7 @@
+xarray
+matplotlib
+numpy
+scipy
+ipykernel
+netCDF4
+jax[cpu]
